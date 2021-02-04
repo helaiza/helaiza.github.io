@@ -1,0 +1,27 @@
+Plan for test task implementation
+
+Mon
+	planning 3h
+	create project, repo 1h
+	prepare mock data 1h
+	page base markup, components implementation 2h
+	routing 1h
+
+=> fist base version
+_________
+
+Tue
+	Redux Saga 3h
+	"add project" functional 2h
+	"create/delete task" functional 1h
+	UI improvement 3h
+
+=> second improved version
+_________
+
+Wed
+	implement tests 3h
+	code refactor 3h 
+	preparing for deployment 2h
+
+=> result version 
